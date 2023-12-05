@@ -17,7 +17,6 @@ from time import sleep
 from urllib.parse import parse_qs, quote, unquote, urlparse
 from uuid import uuid4
 from cloudscraper import create_scraper
-from lk21 import Bypass
 from lxml import etree
 
 from bot import config_dict
